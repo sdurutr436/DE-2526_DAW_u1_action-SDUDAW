@@ -12,7 +12,7 @@ def run_tests():
 
 def update_readme(status: str):
     
-    hora_ejecucion = datetime.datetime.now().strftime("Última ejecución: %Y-%m-%d %H:%M:%S\n")
+    hora_ejecucion = datetime.datetime.now().strftime(" -> %Y-%m-%d %H:%M:%S\n")
     
     with open("README.md", "r", encoding="utf-8") as f:
         lines = f.readlines()
