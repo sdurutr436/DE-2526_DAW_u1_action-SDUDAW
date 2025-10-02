@@ -337,6 +337,9 @@ Con estas extensiones conseguireis:
 Este proyecto sirve para aprender a usar GitHub Actions 🚀
 
 ## Estado de los tests
+![CI con AutoCommit](https://github.com/sdurutr436/DE-2526_DAW_u1_action-SDUDAW/actions/workflows/ci.yaml/badge.svg) Tests correctos
+ -> 2025-10-02 07:44:08
+
 
 ![CI con AutoCommit](https://github.com/sdurutr436/DE-2526_DAW_u1_action-SDUDAW/actions/workflows/ci.yaml/badge.svg)
 ✅ Tests correctos
