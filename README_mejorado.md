@@ -9,7 +9,6 @@
 - Guardado histórico de las pruebas en README.md, no se sobreescribe la información, va añadiendola.
 - Añadida la captura de los tests pasados, haciendo un contador de cantidad de tests que se pasan.
 
-
 ---
 
 ## Cambios principales y motivos
