@@ -338,6 +338,9 @@ Este proyecto sirve para aprender a usar GitHub Actions 🚀
 
 ## Estado de los tests
 ✅ Tests correctos
+ -> 2025-10-02 06:24:13
+
+✅ Tests correctos
  -> 2025-09-30 18:07:02
 
 ✅ Tests correctos
