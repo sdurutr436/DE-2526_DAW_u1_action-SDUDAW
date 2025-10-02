@@ -32,5 +32,4 @@ jobs:
         with:
           commit_message: "Update README y report con estado de tests"
           file_pattern: README.md report.md test-report.md
-          
-[![Badge showing status of CI con AutoCommit workflow for main branch. Text reads CI con AutoCommit. Badge color and text indicate current workflow status. Located within GitHub repository DE-2526_DAW_u1_action-SDUDAW.](https://github.com/sdurutr436/DE-2526_DAW_u1_action-SDUDAW/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/sdurutr436/DE-2526_DAW_u1_action-SDUDAW/actions/workflows/ci.yaml)
+

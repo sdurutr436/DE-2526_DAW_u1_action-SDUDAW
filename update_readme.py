@@ -14,9 +14,9 @@ def run_tests():
                 parts = line.split()
                 if len(parts) > 0 and parts[1] == "passed":
                     pasados = int(parts[0])
-        return "✅ Tests correctos", pasados
+        return "![CI con AutoCommit](https://github.com/sdurutr436/DE-2526_DAW_u1_action-SDUDAW/actions/workflows/ci.yaml/badge.svg) Tests correctos", pasados
     except subprocess.CalledProcessError:
-        return "❌ Tests fallidos", pasados
+        return "![CI con AutoCommit](https://github.com/sdurutr436/DE-2526_DAW_u1_action-SDUDAW/actions/workflows/ci.yaml/badge.svg) Tests fallidos", pasados
 
 def update_markdowns(status: tuple, tiempo_total: float):
     
