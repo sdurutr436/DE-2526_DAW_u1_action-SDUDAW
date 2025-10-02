@@ -10,3 +10,5 @@
 0.64 segundos
 ✅ Tests correctos
 0.45 segundos
+✅ Tests correctos
+0.55 segundos
